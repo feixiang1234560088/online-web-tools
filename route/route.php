@@ -13,8 +13,8 @@
 Route::domain('tooladmin.ruyo.net', 'admin');
 
 //前台域名
-Route::domain('tool.ruyo.net', function () {
-    Route::domain('tool.ruyo.net', 'index');
+Route::domain('online-web-tools-feixiang1699-gmailcom.vercel.app', function () {
+    Route::domain('online-web-tools-feixiang1699-gmailcom.vercel.app', 'index');
     Route::rule('404', 'index/e404');
     //接口
     Route::rule('doapi', 'index/api');
