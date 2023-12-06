@@ -7,7 +7,7 @@
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "https://example-php-7-4.vercel.app",
     "license": "Apache-2.0",
     "authors": [
         {
